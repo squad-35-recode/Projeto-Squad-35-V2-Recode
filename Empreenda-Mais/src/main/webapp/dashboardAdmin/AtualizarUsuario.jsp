@@ -144,20 +144,7 @@
 									<li><a class="dropdown-item" href="/Empreenda-Mais/dashboardAdmin/CadastroPostagem.jsp">Cadastrar</a></li>
 								</ul></li>
 
-							<li class="dropdown"><a href="#"
-								class="nav-link dropdown-toggle" id="dropdown"
-								data-bs-toggle="dropdown" aria-expanded="false"> <i
-									class="fs-5 fas fa-book-open"></i><span
-									class="ms-1 d-none d-sm-inline">Cursos</span>
-							</a>
-								<ul class="dropdown-menu dropdown-menu-dark text-small shadow"
-									aria-labelledby="dropdown">
-									<li><a class="dropdown-item"
-										href="#">Listar</a></li>
-									<li><a class="dropdown-item"
-										href="#">Cadastrar</a></li>
-								</ul></li>
-
+							
 							<li class="nav-item"><a href="/Empreenda-Mais/Index"
 								class="nav-link" target="_blank"> <i
 									class="fas fa-external-link-alt"></i> Ver o Sistema Principal
